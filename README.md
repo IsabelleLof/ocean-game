@@ -19,3 +19,10 @@ Initialization: Sets up the Three.js scene, including the renderer, camera, wate
 Update Functions: Defines functions for updating the scene, including updating the position of the boat and the water animation.
 Rendering Loop: Starts the rendering loop (animate function), which continuously updates and renders the scene.
 Overall, this code creates a visually appealing 3D scene with interactive elements, demonstrating basic usage of Three.js for creating 3D graphics in a web environment."
+
+<img width="1440" alt="Skärmavbild 2024-04-22 kl  12 27 57" src="https://github.com/IsabelleLof/ocean-game/assets/104595550/87302c51-f45c-4790-af44-22db2463edcc">
+
+<img width="1440" alt="Skärmavbild 2024-04-22 kl  12 27 57" src="https://github.com/IsabelleLof/ocean-game/assets/104595550/64851e7b-46bd-4590-8473-817033fa72d6">
+
+
+
