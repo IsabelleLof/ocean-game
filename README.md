@@ -22,7 +22,8 @@ Overall, this code creates a visually appealing 3D scene with interactive elemen
 
 <img width="1440" alt="Skärmavbild 2024-04-22 kl  12 27 57" src="https://github.com/IsabelleLof/ocean-game/assets/104595550/87302c51-f45c-4790-af44-22db2463edcc">
 
-<img width="1440" alt="Skärmavbild 2024-04-22 kl  12 27 57" src="https://github.com/IsabelleLof/ocean-game/assets/104595550/64851e7b-46bd-4590-8473-817033fa72d6">
+<img width="1440" alt="Skärmavbild 2024-04-22 kl  12 27 37" src="https://github.com/IsabelleLof/ocean-game/assets/104595550/42fe711f-73a1-4dfb-89fe-27f0ce692f3e">
+
 
 
 
